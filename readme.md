@@ -1,7 +1,6 @@
 # 📚 Resumos para Concursos de TI
 
-Bem-vindo ao repositório de **Resumos para concursos de Tecnologia da Informação (TI)**! 
-Aqui você encontrará conteúdos organizados para auxiliar nos estudos de diversas disciplinas cobradas em concursos públicos da área de TI. 🚀
+Bem-vindo ao repositório de **resumos para concursos de Tecnologia da Informação (TI)**! Aqui você encontrará conteúdos organizados para auxiliar nos estudos de diversas disciplinas cobradas em provas de concursos públicos da área de TI. 🚀
 
 ## 🎯 **Objetivo**
 Este repositório tem como objetivo fornecer **resumos organizados, diretos e objetivos**, facilitando a revisão rápida dos principais tópicos cobrados em provas de concursos da área de TI.
@@ -11,13 +10,14 @@ Os resumos estão organizados por disciplina. Abaixo, uma lista dos principais t
 
 ### **1. Segurança da Informação**
 - Princípios da Segurança da Informação (CID - Confidencialidade, Integridade e Disponibilidade)
-- Políticas de Segurança
+- Políticas de Segurança da Informação
 - Segurança Física e Lógica
-- Métodos de Autenticação (Senhas, Tokens, Certificados, Biometria)
-- Cópias de Segurança (Backup)
+- Métodos de Autenticação (Senhas, Tokens, Certificados e Biometria)
+- Cópias de Segurança (Backup): Tipos, Ciclos e Dispositivos
 - RAID (Redundant Array of Independent Disks)
 - Combate a Malwares
-- Firewalls e Filtragem de Pacotes
+- Conceito de DMZ
+- Conceito de Filtragem de Pacotes e Firewall
 - Sistemas de Detecção de Intrusão (NIDS)
 - Criptografia Simétrica e Assimétrica
 - Infraestrutura de Chave Pública (PKI)
@@ -34,26 +34,50 @@ Os resumos estão organizados por disciplina. Abaixo, uma lista dos principais t
 - Endereçamento IPv4 e IPv6
 - Roteamento e Switching
 - VPNs e Redes Seguras
+- Aplicações de Voz e Imagem sobre Redes
+- Redes de Longa Distância (WAN)
 
-### **4. Engenharia de Software**
-- Ciclo de Vida do Desenvolvimento de Software (SDLC)
-- Métodos Ágeis (Scrum, Kanban)
-- Modelos de Desenvolvimento (Cascata, Iterativo, Espiral)
-- Qualidade de Software (ISO 9126, CMMI, MPS.BR)
+### **4. Infraestrutura e Operações**
+- Serviços de Diretório
+- LDAP (Lightweight Directory Access Protocol)
+- Microsoft Active Directory On-Premises
+- Azure Microsoft Active Directory
+- Instalação e Suporte aos Protocolos TCP/IP, DHCP
+- Serviços de Nomes de Domínios (DNS, NIS, NFS, POP, IMAP, SMTP, FTP)
+- Serviço HTTP e HTTPS
+- Serviços de Rede (Correio Eletrônico, SMB, WINS, DHCP, FTP, SSH, etc.)
+- Modelos de Disponibilização de Soluções em Nuvem – Cloud Computing (IaaS, PaaS, CaaS, SaaS)
 
-### **5. Banco de Dados**
-- Modelagem de Dados (Modelo Relacional, Normalização)
-- SQL (Comandos DDL, DML, DCL, TCL)
-- NoSQL (MongoDB, Firebase, Redis)
-- ACID e CAP Theorem
+### **5. Sistemas Operacionais**
+- Microsoft Windows: Conceitos Básicos, Administração e Logs de Auditoria
+- Preparação e Criação de Imagens de Sistemas Operacionais (SYSPREP)
+- Microsoft Office On-Premises e Microsoft 365
+- Políticas de Administração de Estações
+- Distribuição de Atualizações de Softwares
+- Montagem de Pacotes de Instalação
+- Linha de Comandos, Shell Script, PowerShell
+- Controle Remoto de Estações
+- Especificações Técnicas de Equipamentos (Workstations, Notebooks, Impressoras, Scanners, etc.)
 
-### **6. Sistemas Operacionais**
-- Gerenciamento de Processos e Memória
-- Sistemas de Arquivos (FAT, NTFS, EXT4)
-- Comandos Básicos de Linux e Windows
-- Virtualização e Contêineres (Docker, Kubernetes)
+### **6. Governança de Tecnologia da Informação**
+- Conceitos Básicos de Governança de TI
+- Service Desk
+- Gerenciamento de Incidentes, Problemas, Configuração, Mudança e Liberações
+- Gerenciamento de Níveis de Serviço
+- Gerenciamento Financeiro de Serviços de TI
 
-### **7. Desenvolvimento e Programação**
+### **7. Gestão de Projetos de TI**
+- Determinação dos Requisitos
+- Diagrama de Rede, Caminho Crítico e Folgas
+- Estrutura Analítica do Projeto (EAP)
+- Estudo de Viabilidade Técnica e Econômica
+- Execução, Acompanhamento e Controle de Projetos
+- Revisão e Avaliação de Projetos
+- Fechamento de Projetos
+- Metodologias, Técnicas e Ferramentas de Gerenciamento de Projetos
+- Metodologias Ágeis (Scrum e Kanban)
+
+### **9. Desenvolvimento e Programação**
 - Estruturas de Dados e Algoritmos
 - Programação Orientada a Objetos (POO)
 - Linguagens de Programação (Python, Java, JavaScript)
