@@ -24,9 +24,9 @@ Os resumos estão organizados por disciplina. Abaixo, uma lista dos principais t
 - Certificação e Assinatura Digital
 
 ### **2. Legislação de TI**
-- **Lei de Acesso à Informação (LAI - Lei nº 12.527/2011)**
-- **Lei Geral de Proteção de Dados (LGPD - Lei nº 13.709/2018)**
-- **Marco Civil da Internet (Lei nº 12.965/2014)**
+- Lei de Acesso à Informação (LAI - Lei nº 12.527/2011)
+- Lei Geral de Proteção de Dados (LGPD - Lei nº 13.709/2018)
+- Marco Civil da Internet (Lei nº 12.965/2014)
 
 ### **3. Redes de Computadores**
 - Arquitetura TCP/IP e OSI
